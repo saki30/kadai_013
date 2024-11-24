@@ -34,11 +34,7 @@ body {
   #nav-pc a:hover {
     text-decoration: underline;
   }
-  /* スマホ用ナビを非表示 */
-  #nav-sp,
-  #menu-sp {
-    display: none;
-  }
+
 
 p {
   font-size: 15px;
